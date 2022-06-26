@@ -1,4 +1,4 @@
-# Food-Order-Rating
+# Food Order Rating Prediction 
 
 # **Problem Statement:** #
 
@@ -11,26 +11,26 @@ To clean and pre-process the data to pull key insights and indicators that impac
 # **Aproach:** #
 
 
-*Reading the data in python
+* Reading the data in python
 
-*Cleaning the data and transform to be useful for basic analysis
+* Cleaning the data and transform to be useful for basic analysis
 
-*Identifying the Target variable and it's dsitribution
+* Identifying the Target variable and it's dsitribution
 
-*Data exploration
+* Data exploration
 
-*Feature Engineering
+* Feature Engineering
 
-*EDA
+* EDA
 
-*Feature Selection 
+* Feature Selection 
 
-*Outlier treatment
+* Outlier treatment
 
-*Missing Values treatment
+* Missing Values treatment
 
-*Statistical correlation analysis (Feature Selection)
+* Statistical correlation analysis (Feature Selection)
 
-*Converting data to numeric for ML
+* Converting data to numeric for ML
 
-*Model Building and Accuracy
+* Model Building and Accuracy
