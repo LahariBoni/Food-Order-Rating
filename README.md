@@ -8,7 +8,7 @@ Swiggito, the online food delivery app, has reached out to you to help them to i
 
 To clean and pre-process the data to pull key insights and indicators that impact the ratings provided by the customer.
 
-# **Aproach :** #
+# **Approach :** #
 
 
 * Reading the data in python
